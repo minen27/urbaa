@@ -21,22 +21,6 @@ A modern, real-time team communication platform built with Next.js and Supabase.
 
 ---
 
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Framework | [Next.js 16](https://nextjs.org/) (App Router) |
-| Language | TypeScript |
-| Backend & DB | [Supabase](https://supabase.com/) (Postgres, Auth, Realtime, Storage) |
-| Styling | Tailwind CSS v4 |
-| UI Components | Radix UI |
-| State Management | Zustand + TanStack Query |
-| Forms | React Hook Form + Zod |
-| Rich Text | Tiptap Editor |
-| Animations | Framer Motion |
-
----
-
 
 
 ## 📁 Project Structure
