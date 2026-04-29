@@ -2,7 +2,7 @@
 
 A modern, real-time team communication platform built with Next.js and Supabase. Think Slack — channels, direct messages, file sharing, and role-based administration, all in one clean interface.
 
-> 🚀 **Live App:** [Deployed on Vercel](#) <!-- Replace with your Vercel URL -->
+
 
 ---
 
